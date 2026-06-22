@@ -1,0 +1,16 @@
+# HFSS generated files
+*.aedtresults/
+*.lock
+*.log
+*.bak
+*.tmp
+*.autosave
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+# Allow tracking this specific generated results folder
+!Deisgn/MSA2.aedtresults/

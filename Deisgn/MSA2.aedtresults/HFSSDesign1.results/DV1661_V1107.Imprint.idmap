@@ -1,0 +1,16 @@
+$begin 'imprintInfo'
+	FileVersion='2025R2'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(6, 'Patch', -1, 14, 186, 158, 7, 8, 9, 159, 11, 12, 160, 161, 187, 93, 94, 95)
+		Part(34, 'substrate', -1, 6, 36, 39, 38, 37, 35, 40)
+		Part(62, 'ground', -1, 6, 64, 67, 66, 65, 63, 68)
+		Part(193, 'excitation', -1, 1, 203)
+		Part(205, 'RadiatingSurface', -1, 6, 206, 208, 209, 210, 207, 211)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'
